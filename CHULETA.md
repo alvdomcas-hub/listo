@@ -12,3 +12,4 @@
 - Atajos de teclado: mira ATAJOS.md
 - `git push --force`: la mejor forma de subir cambios
 - `git revert HEAD`: deshace el ultimo commit con otro commit
+- `git switch -c <rama>`: crea una rama
